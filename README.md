@@ -12,6 +12,10 @@ In your config.rb:
 
     activate :neat
 
+And in your Sass-file: 
+
+    @import "neat"
+
 ## Contributing
 
 1. Fork the repo!
