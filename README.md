@@ -6,7 +6,6 @@ A gem for simple usage of [Bourbon Neat](https://github.com/thoughtbot/neat) ins
 
 Add this line to Middleman's Gemfile:
 
-    gem "neat"
     gem "middleman-neat"
 
 In your config.rb: 
