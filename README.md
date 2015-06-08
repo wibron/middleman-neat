@@ -14,7 +14,8 @@ In your config.rb:
 
 And in your Sass-file: 
 
-    @import "neat"
+    @import "bourbon";
+    @import "neat";
 
 ## Contributing
 
